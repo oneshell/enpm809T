@@ -4,7 +4,7 @@ import matplotlib
 import cv2
 import imutils
 
-print "All packages imported properly!"
+print("All packages imported properly!")
 
 image = cv2.imread("testudo.jpg")
 
