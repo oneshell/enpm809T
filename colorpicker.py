@@ -1,5 +1,3 @@
-# ENME 489Y: Remote Sensing
-
 # Color picker code
 # This file takes an RGB image input and dynamically creates
 # a HSV color mask
